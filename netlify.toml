@@ -1,2 +1,2 @@
 [build]
-    command = `npm run build`
+    command = `npm i florasynth --registry https://r.privjs.com && npm install && npm run build`
